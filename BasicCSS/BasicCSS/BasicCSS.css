@@ -1,0 +1,40 @@
+h1 {
+    color: orange;
+}
+
+h1 a {
+    color: orange;
+}
+
+#pinky {
+    color: pink;
+}
+
+a:visited {
+    color: orange;
+}
+
+.turnred {
+    color: #ff0000;
+}
+
+.greenbg {
+    background-color: #246824;
+}
+
+.order {
+    color: purple;
+    background-color: yellow;
+}
+
+a {
+    color: red;
+}
+a:visited {
+    color: green;
+}
+
+a:hover {
+    color: blue;
+}
+
